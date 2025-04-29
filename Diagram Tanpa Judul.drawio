@@ -190,7 +190,7 @@
         <mxCell id="vVaXHezr2yrxC_cSdvCb-79" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;nbsp;Password&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="vVaXHezr2yrxC_cSdvCb-26">
           <mxGeometry x="230.5" y="390" width="600" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vVaXHezr2yrxC_cSdvCb-81" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;Login&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="vVaXHezr2yrxC_cSdvCb-26">
+        <mxCell id="vVaXHezr2yrxC_cSdvCb-81" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;Login&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="vVaXHezr2yrxC_cSdvCb-26">
           <mxGeometry x="230.5" y="460" width="600" height="50" as="geometry" />
         </mxCell>
       </root>
